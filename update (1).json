@@ -1,0 +1,9 @@
+{
+  "appUpdate": {
+    "versionCode": 7,
+    "versionName": "1.7",
+    "apkUrl": "https://pub-5c7622c906e642498f315b8d02f34fdc.r2.dev/18_plus_stories_latest.apk",
+    "releaseNotes": "• A new Upgrade is available.\n• Upgrade now to enjoy the latest features.",
+    "forceUpdate": false
+  }
+}
