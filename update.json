@@ -1,7 +1,7 @@
 {
   "appUpdate": {
-    "versionCode": 7,
-    "versionName": "1.7",
+    "versionCode": 8,
+    "versionName": "1.8",
     "apkUrl": "https://pub-5c7622c906e642498f315b8d02f34fdc.r2.dev/naila_rafiq_latest.apk",
     "releaseNotes": "• A new Upgrade is available.\n• Upgrade now to enjoy the latest features.",
     "forceUpdate": false
