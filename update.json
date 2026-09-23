@@ -1,7 +1,7 @@
 {
   "appUpdate": {
-    "versionCode": 9,
-    "versionName": "1.9",
+    "versionCode": 20,
+    "versionName": "2.0",
     "apkUrl": "https://pub-5c7622c906e642498f315b8d02f34fdc.r2.dev/naila_rafiq_latest.apk",
     "releaseNotes": "• A new Upgrade is available.\n• Upgrade now to enjoy the latest features.",
     "forceUpdate": false
